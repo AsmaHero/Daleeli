@@ -16,8 +16,24 @@ The app has four view controller scenes:
 
 **- Place Details View:** Allows the users to see more details about the place and favorite or unfavorite the place.
 
-# Notes:
-The app contains cocoapods including imagesSlideShow, Cosmos to make it more attractive. The app also use coreData with one entity which is favorite places. The google api urls used are all in googleApi.swift. 
+# Libraries used:
+The app contains cocoapods including imagesSlideShow, Cosmos, Almofire and Almofire image to make it more attractive. The app also use coreData with one entity which is favorite places. The google api urls used are all in googleApi.swift. 
+
+# How to build
+
+In XCode, build and run by holding Command ⌘ + R
+
+# Requirements
+
+Xcode 10.1
+
+Swift 4.2
+
+iOS 12.0 +
+
+# License
+
+Google maps license
 
 
 # ScreenShots:
